@@ -1,4 +1,5 @@
-# Number-of-Objects - Construct 2
+# Number-of-Objects
+Công cụ phát triển: Construct 2
 Group 32
 1. Lý Hà Trung
 2. Lê Hữu Nghĩa
