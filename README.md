@@ -9,3 +9,9 @@ hey! This is for tutorial purpose.
 
 Đọc thêm trong tài liệu đặc tả yêu cầu và tài liệu đặc tả thiết kế hệ thống (SRS & SDD):
 https://docs.google.com/document/d/1fzTqNbfquPlgtBeo1638eQBu6xxs1HkEAdIrwwa8Jnk/edit
+
+ - Number of objects:
+1. Count the oranges.
+2. Color and count the beads.
+3. Count the fruit in the jars.
+4. Count the objects.
