@@ -1,8 +1,8 @@
 # Number-of-Objects
-- Công cụ phát triển: Construct 2
+- Công cụ phát triển: Construct 2 (Kéo thả).
 
 
-- Group 32
+- Group 32 :
 1. Lý Hà Trung
 2. Lê Hữu Nghĩa
 3. Phạm Trọng Tấn
