@@ -6,7 +6,6 @@
 1. Lý Hà Trung
 2. Lê Hữu Nghĩa
 3. Phạm Trọng Tấn
-hey! This is for tutorial purpose.
 
 
 - Đọc thêm trong tài liệu đặc tả yêu cầu và tài liệu đặc tả thiết kế hệ thống (SRS & SDD):
